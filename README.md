@@ -29,6 +29,10 @@ var remote_port = __YOUR_COT_SMQ_SERVER_PORT__;
 ```sh
    node app.js
 ```
+or 
+```sh
+   sails l
+```  
  * enjoy
 
 ## Source Code License
